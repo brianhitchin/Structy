@@ -1,0 +1,1 @@
+Will be going over the entirety of structy's DS&A course.
